@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## Open Source Contributions
+- [My Contribution to SomeRepo](https://github.com/harshuh/alumni-portal.git)
+
 <!--
 **DakshVerma0001/DakshVerma0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
