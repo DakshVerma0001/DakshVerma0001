@@ -1,4 +1,24 @@
 ## Hi there 👋
+🚀 I'm **Daksh Verma** — a Computer Science undergrad passionate about **Cybersecurity, AI, and Full-Stack Development**.  
+
+💻 Currently working on:  
+- 🛡️ AI-Based Social Engineering Detector (Cybersecurity + NLP + ML)  
+- 🎶 Nova Music Bot (Discord.js, APIs, scalable deployment)  
+- 💳 Secure Fee Payment System (PHP + MySQL)  
+
+🔐 Internship Experience:  
+- **Data Security Intern @ Airtel** → Data protection, GDPR compliance, secure APIs.  
+- **Summer Trainee @ DRDO** → AI-driven missile guidance system, backend pipelines, cyber-threat simulations.  
+- **ML Intern @ Bharat Intern** → Predictive modeling with Python & scikit-learn.  
+
+⚡ Skills & Tools: Node.js, Express.js, PHP, MySQL, MongoDB, Python, REST APIs, Linux, Docker, Burp Suite, Wireshark, Nmap.  
+
+📚 Certifications: Diploma in Cybersecurity (Craw Security), Data Loss Prevention (Google Cloud).  
+
+🌱 Always learning, building, and exploring ways to combine **AI + Cybersecurity** for real-world impact.  
+
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/daksh-verma-210189248/)
+
 
 ## Open Source Contributions
 - [GBU Alumni Portal](https://github.com/harshuh/alumni-portal.git)
