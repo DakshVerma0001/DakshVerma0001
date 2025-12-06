@@ -19,10 +19,6 @@
 
 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/daksh-verma-210189248/)
 
-
-## Open Source Contributions
-- [GBU Alumni Portal](https://github.com/harshuh/alumni-portal.git)
-
 <!--
 **DakshVerma0001/DakshVerma0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
