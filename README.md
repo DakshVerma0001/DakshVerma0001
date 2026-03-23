@@ -2,7 +2,8 @@
 🚀 I'm **Daksh Verma** — a Computer Science undergrad passionate about **Cybersecurity, AI, and Full-Stack Development**.  
 
 💻 Currently working on:  
-- 🛡️ AI-Based Social Engineering Detector (Cybersecurity + NLP + ML)  
+- 🛡️ AI-SQL Based Dashboard Genreator (Business Aanalytics + NLP + ML)
+- 💻 Deepfake And Fake News Detector (NLP + ML + OpenCV)
 - 🎶 Nova Music Bot (Discord.js, APIs, scalable deployment)  
 - 💳 Secure Fee Payment System (PHP + MySQL)  
 
