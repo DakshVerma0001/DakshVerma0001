@@ -1,5 +1,5 @@
 ## Hi there 👋
-🚀 I'm **Daksh Verma** — a Computer Science undergrad passionate about **Cybersecurity, AI, and Full-Stack Development**.  
+🚀 I'm **Daksh Verma** — an Artificial Intelligence postgrad passionate about **Cybersecurity, AI, and Full-Stack Development**.  
 
 💻 Currently working on:  
 - 🛡️ AI-SQL Based Dashboard Genreator (Business Aanalytics + NLP + ML)
