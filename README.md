@@ -8,6 +8,7 @@
 - 💳 Secure Fee Payment System (PHP + MySQL)  
 
 🔐 Internship Experience:  
+- **Cyber Security Intern @ Tech Eagles** → 
 - **Data Security Intern @ Airtel** → Data protection, GDPR compliance, secure APIs.  
 - **Summer Trainee @ DRDO** → AI-driven missile guidance system, backend pipelines, cyber-threat simulations.  
 - **ML Intern @ Bharat Intern** → Predictive modeling with Python & scikit-learn.  
