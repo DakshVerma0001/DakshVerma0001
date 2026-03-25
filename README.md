@@ -23,8 +23,7 @@
 
 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/daksh-verma-210189248/)
 
-📫 How to reach me:
-Contact: +91 8920869112                                                                                                                                             
+📫 How to reach me:                                                                                                                                                 Contact: +91 8920869112                                                                                                                                             
 Mail: vermadaksh353@gmail.com                                                                                                                                       
 https://dakshverma-exe.vercel.app/#contact
 <!--
