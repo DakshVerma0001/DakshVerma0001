@@ -13,7 +13,7 @@
 - **Summer Trainee @ DRDO** → AI-driven missile guidance system, backend pipelines, cyber-threat simulations.  
 - **ML Intern @ Bharat Intern** → Predictive modeling with Python & scikit-learn.  
 
-⚡ Skills & Tools: Node.js, Express.js, PHP, MySQL, MongoDB, Python, REST APIs, Linux, Docker, Burp Suite, Wireshark, Nmap.  
+⚡ Skills & Tools: Node.js, Express.js, Python, MySQL, MongoDB, PHP, REST APIs, Kali Linux, Docker, Burp Suite, Wireshark, Nmap.  
 
 📚 Certifications: Diploma in Cybersecurity (Craw Security), Data Loss Prevention (Google Cloud).  
 
@@ -24,7 +24,7 @@ Check out my portfolio!: https://dakshverma-exe.vercel.app/
 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/daksh-verma-210189248/)
 
 📫 How to reach me:
-Contact: +91 8920869112
+Contact: +91 8920869112,
 Mail: vermadaksh353@gmail.com
 https://dakshverma-exe.vercel.app/#contact
 <!--
