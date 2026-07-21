@@ -25,10 +25,10 @@
 
 | 🚀 Project | 💻 Tech | ⭐ |
 |:--|:--|:--:|
-| 🤖 [IFSO Cyber Helpdesk](https://github.com/DakshVerma0001/ifso-cyber-helpdesk.git) | `FastAPI` `Python` `PyTorch` `PostgreSQL` `MongoDB` `ChromaDB` | 1 |
-| 🛡️ [Corvex](https://github.com/DakshVerma0001/Corvex-backend.git) | `React` `FastAPI` `Python` `AI` | 1 |
-| 🌍 [Civic Issue Reporting](https://github.com/DakshVerma0001/CIvic-Issue-Reporting-ML-Model.git) | `Node.js` `React` `MongoDB` `EfficientNet` | 1 |
-| 📊 [AI Power BI Generator](https://github.com/DakshVerma0001/AI-PowerBI-Generator.git) | `Python` `FastAPI` `LLM` `Power BI` | 1 |
+| 🤖 [IFSO Cyber Helpdesk](https://github.com/DakshVerma0001/ifso-cyber-helpdesk.git) | `FastAPI` `Python` `PyTorch` | 1 |
+| 🛡️ [Corvex](https://github.com/DakshVerma0001/Corvex-backend.git) | `FastAPI` `Python` `AI` | 1 |
+| 🌍 [Civic Issue Reporting](https://github.com/DakshVerma0001/CIvic-Issue-Reporting-ML-Model.git) | `Node.js` `React` `MongoDB` | 1 |
+| 📊 [AI Power BI Generator](https://github.com/DakshVerma0001/AI-PowerBI-Generator.git) | `Python` `FastAPI` `LLM` | 1 |
 
 <br/>
 
