@@ -8,4 +8,4 @@
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-CB5EEE?style=for-the-badge)](https://instagram.com/dakshbrb)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=DakshVerma0001&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=DakshVerma0001&label=VISITORS&color=06b6d4&style=for-the-badge)
