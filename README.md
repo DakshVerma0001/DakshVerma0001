@@ -71,10 +71,10 @@
 <a href="https://www.instagram.com/dakshbrb"><img src="https://img.shields.io/badge/Instagram-e879f9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 <br/><br/>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DakshVerma0001&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge" alt="Profile Views" />
 </p>
+
 
 Ps: Fixing one bug to create two more since 2026. 
 
