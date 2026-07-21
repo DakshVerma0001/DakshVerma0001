@@ -6,3 +6,6 @@
 [![GitHub](https://img.shields.io/badge/GITHUB-7C3AED?style=for-the-badge)](https://github.com/DakshVerma0001)
 
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-CB5EEE?style=for-the-badge)](https://instagram.com/dakshbrb)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=DakshVerma0001)
