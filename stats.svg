@@ -1,0 +1,91 @@
+<svg viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg" width="495" height="195">
+<defs>
+  <linearGradient id="bgS" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" style="stop-color:#0B1120"/>
+    <stop offset="100%" style="stop-color:#061428"/>
+  </linearGradient>
+  <linearGradient id="rankRing" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" style="stop-color:#00E5FF"/>
+    <stop offset="100%" style="stop-color:#2563EB"/>
+  </linearGradient>
+  <linearGradient id="statRow" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" style="stop-color:#00E5FF"/>
+    <stop offset="100%" style="stop-color:#2563EB"/>
+  </linearGradient>
+  <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+  </filter>
+  <filter id="cardS" x="-5%" y="-5%" width="110%" height="110%">
+    <feDropShadow dx="0" dy="2" stdDeviation="8" flood-color="#00E5FF" flood-opacity="0.25"/>
+  </filter>
+</defs>
+
+<g filter="url(#cardS)">
+<rect width="495" height="195" rx="14" fill="url(#bgS)" stroke="#1D4ED8" stroke-width="1.5"/>
+<rect width="495" height="195" rx="14" fill="none" stroke="#00E5FF" stroke-width="0.5" opacity="0.5" filter="url(#glow)"/>
+
+<!-- Title -->
+<text x="247" y="32" font-family="'Courier New',monospace" font-size="14" font-weight="bold" fill="#00E5FF" text-anchor="middle" letter-spacing="2">GITHUB STATS</text>
+<line x1="20" y1="42" x2="475" y2="42" stroke="#1D4ED8" stroke-width="0.8"/>
+
+<!-- Rank circle (left side) -->
+<circle cx="95" cy="118" r="58" fill="none" stroke="#1D4ED8" stroke-width="8"/>
+<!-- Animated rank ring -->
+<circle cx="95" cy="118" r="58" fill="none" stroke="url(#rankRing)" stroke-width="8" stroke-dasharray="364 0" stroke-dashoffset="0" stroke-linecap="round" transform="rotate(-90 95 118)" filter="url(#glow)">
+  <animate attributeName="stroke-dasharray" values="0 364;292 72" dur="2s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+</circle>
+<!-- Rank label -->
+<text x="95" y="108" font-family="'Courier New',monospace" font-size="10" fill="#64748B" text-anchor="middle">RANK</text>
+<text x="95" y="127" font-family="'Georgia',serif" font-size="26" font-weight="bold" fill="#00E5FF" text-anchor="middle">A+</text>
+<text x="95" y="145" font-family="'Courier New',monospace" font-size="9" fill="#38BDF8" text-anchor="middle">Top 15%</text>
+
+<!-- Stats rows -->
+<!-- Total Stars -->
+<text x="185" y="64" font-family="'Courier New',monospace" font-size="11" fill="#94A3B8">Total Stars Earned</text>
+<rect x="185" y="70" width="280" height="7" rx="3.5" fill="#0D2137"/>
+<rect x="185" y="70" width="0" height="7" rx="3.5" fill="url(#statRow)" filter="url(#glow)">
+  <animate attributeName="width" values="0;196" dur="1.2s" begin="0.8s" fill="freeze"/>
+</rect>
+<text x="472" y="80" font-family="'Courier New',monospace" font-size="10" fill="#00E5FF" text-anchor="end" opacity="0">
+  70
+  <animate attributeName="opacity" values="0;1" dur="0.1s" begin="2s" fill="freeze"/>
+</text>
+
+<!-- Total Commits -->
+<text x="185" y="100" font-family="'Courier New',monospace" font-size="11" fill="#94A3B8">Total Commits (2024)</text>
+<rect x="185" y="106" width="280" height="7" rx="3.5" fill="#0D2137"/>
+<rect x="185" y="106" width="0" height="7" rx="3.5" fill="url(#statRow)" filter="url(#glow)">
+  <animate attributeName="width" values="0;238" dur="1.2s" begin="1.0s" fill="freeze"/>
+</rect>
+<text x="472" y="116" font-family="'Courier New',monospace" font-size="10" fill="#00E5FF" text-anchor="end" opacity="0">
+  850+
+  <animate attributeName="opacity" values="0;1" dur="0.1s" begin="2.2s" fill="freeze"/>
+</text>
+
+<!-- PRs -->
+<text x="185" y="136" font-family="'Courier New',monospace" font-size="11" fill="#94A3B8">Total Pull Requests</text>
+<rect x="185" y="142" width="280" height="7" rx="3.5" fill="#0D2137"/>
+<rect x="185" y="142" width="0" height="7" rx="3.5" fill="url(#statRow)" filter="url(#glow)">
+  <animate attributeName="width" values="0;168" dur="1.2s" begin="1.2s" fill="freeze"/>
+</rect>
+<text x="472" y="152" font-family="'Courier New',monospace" font-size="10" fill="#00E5FF" text-anchor="end" opacity="0">
+  60
+  <animate attributeName="opacity" values="0;1" dur="0.1s" begin="2.4s" fill="freeze"/>
+</text>
+
+<!-- Issues -->
+<text x="185" y="172" font-family="'Courier New',monospace" font-size="11" fill="#94A3B8">Total Issues Opened</text>
+<rect x="185" y="178" width="280" height="7" rx="3.5" fill="#0D2137"/>
+<rect x="185" y="178" width="0" height="7" rx="3.5" fill="url(#statRow)" filter="url(#glow)">
+  <animate attributeName="width" values="0;140" dur="1.2s" begin="1.4s" fill="freeze"/>
+</rect>
+<text x="472" y="188" font-family="'Courier New',monospace" font-size="10" fill="#00E5FF" text-anchor="end" opacity="0">
+  50
+  <animate attributeName="opacity" values="0;1" dur="0.1s" begin="2.6s" fill="freeze"/>
+</text>
+
+<!-- Holographic highlight -->
+<rect x="0" y="0" width="495" height="195" rx="14" fill="none" stroke="#00E5FF" stroke-width="0.8" opacity="0.3"/>
+</g>
+</svg>
