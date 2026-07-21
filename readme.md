@@ -1,1 +1,1 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DakshVerma0001&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=DakshVerma0001&theme=tokyonight)
