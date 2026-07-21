@@ -72,7 +72,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=DakshVerma0001&label=PROFILE VIEWERS&color=06b6d4&style=for-the-badge" alt="Profile views"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DakshVerma0001&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge" alt="Profile Views" />
+</p>
 
 <br/><br/>
 
