@@ -76,8 +76,6 @@
   <img src="https://komarev.com/ghpvc/?username=DakshVerma0001&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<br/><br/>
-
 Ps: Fixing one bug to create two more since 2026. 
 
 </div>
